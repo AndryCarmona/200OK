@@ -11,6 +11,7 @@ El proyecto espera tener un impacto social al ampliar el acceso a nuevos escenar
 
 ### Prototipo del proyecto
 **Video:** https://drive.google.com/file/d/1o4rjwkR5bsq7-wzi9-Wk_tGsxt38f85b/view?usp=sharing
+
 **Figma:**  https://www.figma.com/proto/4N7ABrALliIbM8vTcihbCj/200-OK?node-id=6112-12&t=8ADq14FcHE8NAFtv-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6112%3A12
 
 ### Tecnologías propuestas:
