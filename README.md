@@ -17,5 +17,7 @@ El proyecto espera tener un impacto social al ampliar el acceso a nuevos escenar
 
 ### Tecnologías propuestas:
 > Android Studio
+
 > OpenStreetMap
+
 > Leaflet
