@@ -1,5 +1,5 @@
 # Edu-Map
-## Equipo 200 OK
+## Equipo: 200 OK
 ### Descripción
 El proyecto consiste en una aplicación interactiva para múltiples materias que utiliza el aprendizaje vivencial y la geolocalización, pensando en que en futuras versiones se podría incluir la realidad aumentada.
 
@@ -16,5 +16,8 @@ El proyecto espera tener un impacto social al ampliar el acceso a nuevos escenar
 > **Figma:**  https://www.figma.com/proto/4N7ABrALliIbM8vTcihbCj/200-OK?node-id=6112-12&t=8ADq14FcHE8NAFtv-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=6112%3A12
 
 ### Tecnologías propuestas:
-> React Native
->
+> Android Studio
+
+> OpenStreetMap
+
+> Leaflet
